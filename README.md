@@ -8,6 +8,8 @@
 sudo apt install liburing-dev
 
 gcc -o what what.c -luring
+
+./what /path/to/dir
 ```
 
 <br>
